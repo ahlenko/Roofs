@@ -1,6 +1,6 @@
 {
-    "name": "roof_and_facade",
-    "short_name": "roof_and_facade",
+    "name": "Покрівля та фасад",
+    "short_name": "Покрівля та фасад",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#000000",
