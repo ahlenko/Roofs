@@ -20,6 +20,21 @@
 </head>
 
 <body>
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-app.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyBNqbK4hKdBePDtzxg-o6pZG9urcSRaM-w",
+      authDomain: "roofs-and-facade.firebaseapp.com",
+      projectId: "roofs-and-facade",
+      storageBucket: "roofs-and-facade.appspot.com",
+      messagingSenderId: "50620010156",
+      appId: "1:50620010156:web:2f1cbb52d65b5af0171909"
+    };
+
+    const app = initializeApp(firebaseConfig);
+  </script>
+
   <script src="flutter_bootstrap.js" async></script>
 </body>
 
