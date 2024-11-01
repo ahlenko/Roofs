@@ -53,5 +53,10 @@
     "please_use_a_valid_email_adress": "Будь ласка, використовуйте дійсну електронну пошту",
     "field_must_be_filled": "Поле має бути заповненим",
     "password_not_metch": "Паролі не співпадають",
-    "sms_code_not_metch": "Введений код не співпадає з надісланим в SMS"
+    "sms_code_not_metch": "Введений код не співпадає з надісланим в SMS",
+    "user_not_found": "Користувача не знайдено",
+    "phone_number_taken": "Номер телефону вже використовується",
+    "email_taken": "Електронну пошту вже використано",
+    "invalid_credention": "Невірні облікові дані",
+    "unexpected_error": "Неочікувана помилка"
 }
